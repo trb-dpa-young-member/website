@@ -1,1 +1,3 @@
-# trb-dpa-young-members.github.io
+# TRB Planning Data and Analysis Young Members Subcommittee Website
+
+This GitHub repository houses the website for the TRB Planning Data and Analysis Young Members Subcommittee. The main page includes blog posts to help direct users to the most relavant and newest information. Other components of the websites relate to resources and information about the subcommittee. We hope this website will provide instruction to members of the subcommittee as well as new young members attending the TRB annual meetings. 
