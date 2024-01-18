@@ -1,5 +1,5 @@
 # TRB Planning Data and Analysis Young Members Subcommittee
-This website hosts the TRB Standing Committee on Transit Data.
+This website hosts the TRB Planning Data and Analysis Young Members Subcommittee. The README and website are modeled after the TRB Standing Committee on Transit Data website.
 
 ## Why GitHub?
 It's a clever way of managing code, and a website is just a bunch of code
