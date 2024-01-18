@@ -4,7 +4,18 @@ title: Committees
 subtitle: Data, Planning, and Analysis Group (AE) Transportation Planning and Analysis Section (AEP) Standing Committees
 ---
 
-Below are a list of the TRB Data, Planning, and Analysis standing committees. It may be a good idea to [*become a friend*](https://www.mytrb.org/Committees/SelfNominationAsFriend) of a committee that you are interested in.
+TRB’s Data, Planning and Analysis Group has two Sections that include many Standing Committees: 
+
+ - Transportation Planning and Analysis 
+    - 11 Standing Committees (AEP)
+ - Data and Data Science
+    - 8 Standing Committees (AED)
+
+<div style="text-align: center;">
+    <img src="../assets/img/committee.png" alt="drawing" width="500"/>
+</div>
+
+A description of some of these standing committees are listed below. It may be a good idea to [*become a friend*](https://www.mytrb.org/Committees/SelfNominationAsFriend) of a committee that you are interested in.
 
 **Standing Committee on Transportation Planning Policy and Processes (AEP10)**
 

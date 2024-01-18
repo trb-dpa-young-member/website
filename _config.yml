@@ -77,16 +77,16 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  linkedin: trb-data-planning-and-analysis-group-young-member-subcommittee
+  github: trb-dpa-young-member/website
   email: "elindsey@drcog.org"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: trb-dpa-young-member/website
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: "@daattali"
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -117,8 +117,8 @@ rss-description: An RSS feed for the trb-dba-young-member website
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
